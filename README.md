@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @88Rutuja
+- 👀 I’m interested in 
+- 🌱 I’m currently learning Data Science
